@@ -10,5 +10,8 @@ __pycache__/
 # 個人の学習ログ（第3回の宿題で作成）は共有しない
 learning_log/
 
+# 個人の会話履歴
+/history/
+
 # macOS
 .DS_Store
